@@ -1,4 +1,4 @@
-# AMD_MBApro - Market-Basket Analysis — IMDB
+# AMD_MBAproj - Market-Basket Analysis — IMDB
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1whxQ1dm4G2neBsotM4gt_pNz89dIWuzl?usp=sharing)
 

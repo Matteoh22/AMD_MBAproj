@@ -1,6 +1,6 @@
 # AMD_MBApro - Market-Basket Analysis — IMDB
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/REPO/blob/main/Market_Basket_Analysis_IMDB.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1whxQ1dm4G2neBsotM4gt_pNz89dIWuzl?usp=sharing)
 
 Project for **Algorithms for Massive Data** (MSc Data Science for Economics, Università degli Studi di Milano).
 
